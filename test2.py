@@ -22,7 +22,7 @@ def save_running_apps(apps):
     conn = sqlite3.connect('RTS.db')
     cursor = conn.cursor()
 
-    # Insert each app into the database
+    # Her dosya veri tabanına eklenir...
     for app in apps:
         cursor.execute('INSERT INTO running_apps (pid, name, path, time) VALUES (?, ?, ?,?)',
                        (app['pid'], app['name'], app['exe'] ))
@@ -32,12 +32,14 @@ def save_running_apps(apps):
 
 def getRunningApps():
     apps = []
+    #Temel dosya patika filtreleri, kalabalığı engeller...
     PathsToExclude = ['\\Windows\\', '\\Program Files\\', '\\AppData\\', '\\Windows Defender\\']
     AppNames = set()
 
     for proc in psutil.process_iter(['pid', 'name', 'exe']):
+        #if loopları ile ekstra filtreleme uygulanır ve çıkan isimler daha sade kalır...
         if proc.info['name'].endswith('.exe') and not any(path in proc.info['exe'] for path in PathsToExclude):
-            if 'CrashHandler' not in proc.info['name']:
+            if 'CrashHandler' and 'Update' not in proc.info['name']:
                 if proc.info['name'] not in AppNames:
                     AppNames.add(proc.info['name'])
                     apps.append(proc.info)
