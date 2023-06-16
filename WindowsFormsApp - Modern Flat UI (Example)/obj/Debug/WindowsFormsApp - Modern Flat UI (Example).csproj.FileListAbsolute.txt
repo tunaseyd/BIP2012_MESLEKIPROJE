@@ -1,0 +1,28 @@
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Modern Flat UI (Example).csproj.AssemblyReference.cache
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Modern Flat UI (Example).csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp___Modern_Flat_UI__Example_.Form1.resources
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp___Modern_Flat_UI__Example_.Properties.Resources.resources
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Modern Flat UI (Example).csproj.GenerateResource.cache
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Modern Flat UI (Example).csproj.CoreCompileInputs.cache
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\x86\sqlite3.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\x64\sqlite3.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EntityFramework.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\System.Data.SQLite.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EntityFramework.xml
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\System.Data.SQLite.xml
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Modern Flat UI (Example).csproj.CopyComplete
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EPPlus.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\EPPlus.xml
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\WindowsFormsApp - Mesleki Proje.exe.config
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\WindowsFormsApp - Mesleki Proje.exe
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\bin\Debug\WindowsFormsApp - Mesleki Proje.pdb
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Mesleki Proje.exe
+C:\Users\HUAWEİ\Desktop\MeslekiProje_2022-23\WindowsFormsApp\WindowsFormsApp - Modern Flat UI (Example)\obj\Debug\WindowsFormsApp - Mesleki Proje.pdb
